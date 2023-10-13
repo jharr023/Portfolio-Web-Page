@@ -1,3 +1,4 @@
+/* below will change the overall layout and style of the page */
 body {
   font-family: FreeMono, monospace;
   background-color: lightcyan;
@@ -8,20 +9,21 @@ body {
   margin-bottom: 50px;
   text-align: center;
 }
+/*this will change the properties of the unordered list*/
 ul {
   text-align: center;
   list-style-position: inside; 
 }
-
+/*this will change the properties of the ordered list*/
 ol {
   text-align: center;
   display: inline-block;
 }
-
+/*this will change the properties of the main heading*/
   h1 {
     height: 100px;
   }
-
+/*this will change the properties of the paragraph-text*/
   p {
     padding-top: 25px;
     padding-left: 100px;
@@ -32,9 +34,9 @@ ol {
       margin-right: 50px;
       margin-bottom: 50px;
   }
-
+/*this will change the properties of the image*/
  img {border-radius: 10px;}
-
+/*this will change the properties of the links*/
 a:link {color: FireBrick;}
 a:visited {color: DarkBlue;}
 a:hover {color: white;}
