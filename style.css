@@ -16,6 +16,10 @@ ul {
       font-size: 30px;
         margin-left: 150px;
       margin-right: 150px;
+      padding-top: 25px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 25px;
 }
 /*this will change the properties of the ordered list*/
 ol {
@@ -24,6 +28,10 @@ ol {
       font-size: 30px;
         margin-left: 150px;
       margin-right: 150px;
+      padding-top: 25px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 25px;
 }
 /*this will change the properties of the main heading*/
   h1 {
