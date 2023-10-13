@@ -35,9 +35,13 @@ ol {
       margin-bottom: 50px;
   }
 /*this will change the properties of the image*/
- img {border-radius: 10px;}
+ img {border-radius: 10px;
+     max-width: 100%;
+      height: auto;
+     }
 /*this will change the properties of the links*/
 a:link {color: FireBrick;}
 a:visited {color: DarkBlue;}
 a:hover {color: white;}
-  
+
+
