@@ -6,7 +6,7 @@ body {
   margin-top: 25px;
   margin-left: 50px;
   margin-right: 50px;
-  margin-bottom: 50px;
+  margin-bottom: 25px;
   text-align: center;
 }
 /*this will change the properties of the unordered list*/
@@ -28,15 +28,15 @@ ol {
     padding-top: 25px;
     padding-left: 100px;
     padding-right: 100px;
-    padding-bottom: 50px;
+    padding-bottom: 25px;
       margin-top: 25px;
       margin-left: 150px;
       margin-right: 150px;
       margin-bottom: 25px;
   }
 /*this will change the properties of the image*/
- img {border-radius: 10px;
-     max-width: 100%;
+ img {border-radius: 25px;
+     max-width: 200%;
       height: auto;
      }
 /*this will change the properties of the links*/
