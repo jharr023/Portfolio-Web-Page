@@ -30,6 +30,9 @@ ol {
     padding-right: 25px;
     padding-bottom: 50px;
   }
+
+ img {border-radius: 10px;}
+
 a:link {color: FireBrick;}
 a:visited {color: DarkBlue;}
 a:hover {color: white;}
