@@ -23,5 +23,7 @@ ol {
     padding-right: 25px;
     padding-bottom: 50px;
   }
-
+a:link {color: green;}
+a:visited {color: orange;}
+a:hover {color: white;}
   
