@@ -6,6 +6,7 @@ body {
 div {
   padding: 25 25 25;
 }
-h1{
-  text-color: maroon;
+header { 
+  color: maroon;
+    background-color: silver;
 }
