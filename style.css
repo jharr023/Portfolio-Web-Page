@@ -1,1 +1,11 @@
+body {
+  background-color: CDE4FF;
+  text-align: center;
+  margin: 12px 50px 175px;
+  font-family: FreeMono, monospace;
+  color: 370B0B;
+}
+div {
+  padding: 25px 25px 25px;
+}
 
