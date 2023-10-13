@@ -4,10 +4,11 @@ body {
   font-family: FreeMono, monospace;
   background-color: FFFAFA;
   color: 191970;
-}
-div {
-
-}
-header { 
   
-}
+ul {
+  text-align: center;
+  list-styler-position: inside; }
+
+ol {
+  text-align: center;
+  list-styler-position: inside; }
