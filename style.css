@@ -1,8 +1,11 @@
 body {
   font-family: FreeMono, monospace;
-  background-color: coral;
+  background-color: FloralWhite;
   color: black;
-  margin: 25px 50px 75px;
+  margin-top: 25px;
+  margin-left: 50px;
+  margin-right: 50px
+  margin-bottom: 50px;
   text-align: center;
 }
 ul {
@@ -14,7 +17,7 @@ ol {
   list-style-position: inside; }
 
   h1 {
-    height: 300px;
+    height: 150px;
   }
 
   p {
@@ -23,7 +26,7 @@ ol {
     padding-right: 25px;
     padding-bottom: 50px;
   }
-a:link {color: green;}
-a:visited {color: orange;}
+a:link {color: FireBrick;}
+a:visited {color: DarkBlue;}
 a:hover {color: white;}
   
