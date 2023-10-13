@@ -1,11 +1,11 @@
 body {
-  background-color: maroon;
+  background-color: Silver;
   text-align: center;
-  margin: 12px 50px 175px;
+  margin: 12 50 175;
   font-family: FreeMono, monospace;
-  color: 370B0B;
+  color: Maroon;
 }
 div {
-  padding: 25px 25px 25px;
+  padding: 25 25 25;
 }
 
