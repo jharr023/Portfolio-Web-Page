@@ -15,11 +15,11 @@ ul {
 
 ol {
   text-align: center;
-  list-style-position: inside;
+  display: inline-block;
 }
 
   h1 {
-    height: 150px;
+    height: 100px;
   }
 
   p {
@@ -27,6 +27,10 @@ ol {
     padding-left: 100px;
     padding-right: 100px;
     padding-bottom: 50px;
+      margin-top: 25px;
+      margin-left: 50px;
+      margin-right: 50px;
+      margin-bottom: 50px;
   }
 
  img {border-radius: 10px;}
