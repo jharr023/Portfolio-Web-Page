@@ -1,6 +1,4 @@
 body {
-  text-align: center;
-  padding: 25 50 50 100;
   font-family: FreeMono, monospace;
   background-color: FFFAFA;
   color: 191970;
@@ -12,3 +10,5 @@ ul {
 ol {
   text-align: center;
   list-style-position: inside; }
+
+  
